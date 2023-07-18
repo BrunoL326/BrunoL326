@@ -5,7 +5,7 @@
 </br>
 ![Dev_BrunoL326](https://github-readme-stats.vercel.app/api?username=BrunoL&show_icons=true&theme=radical)
 
-## Tecnologias que uso diariamente 
+## Tecnologias de diario 
 
 <div style="display: inline_block">
 </br>
