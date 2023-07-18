@@ -3,7 +3,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b.l.o_buuh/) 
 </br>
-![Dev_BrunoL326](https://github-readme-stats.vercel.app/api?username=Bruno-L&show_icons=true&theme=radical)
+![Dev_BrunoL326](https://github-readme-stats.vercel.app/api?username=BrunoL&show_icons=true&theme=radical)
 
 ## Tecnologias que uso diariamente 
 
